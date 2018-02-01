@@ -8,7 +8,7 @@ app.get('/', function(req, res) {
   res.sendFile(__dirname + '/client/index.html');
 });
 app.use('/client',express.static(__dirname + '/client'));
-serv.listen('80');
+serv.listen(process.env.PORT ||'2000');
 console.log('Ass blaster 9000 ready for duty on *:2000');
 
 //Init Socket.io
