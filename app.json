@@ -2,5 +2,7 @@
   "name": "Spyfall",
   "description": "Spyfall clone.",
   "repository": "https://github.com/rmullhau/Spyfall-Clone",
-  "logo"
+  "logo": "https://github.com/rmullhau/Spyfall-Clone/blob/master/logo.png",
+  "keywords": ["node", "spyfall"],
+  "image": "heroku/nodejs"
 }
