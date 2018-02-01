@@ -5,10 +5,13 @@
   "scripts": {
     "start": "node app"
   },
-  "dependencies": {},
+  "dependencies": {
+    "socket.io": "^2.0.4",
+    "express": "^4.16.2"
+  },
   "description": "Spyfall clone.",
   "main": "app.js",
   "devDependencies": {},
-  "author": "",
+  "author": "rmullhau",
   "license": "ISC"
 }
