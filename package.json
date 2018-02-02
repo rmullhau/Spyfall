@@ -10,7 +10,7 @@
     "express": "^4.16.2",
     "hashmap": "^2.3.0"
   },
-  "description": "Spyfall clone.",
+  "description": "Spyfall with some extra features.",
   "main": "server.js",
   "devDependencies": {},
   "author": "rmullhau",
