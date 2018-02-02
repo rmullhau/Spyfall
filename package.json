@@ -1,9 +1,9 @@
 {
   "name": "Spyfall",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
-    "start": "node app"
+    "start": "node server"
   },
   "dependencies": {
     "socket.io": "^2.0.4",
@@ -11,7 +11,7 @@
     "hashmap": "^2.3.0"
   },
   "description": "Spyfall clone.",
-  "main": "app.js",
+  "main": "server.js",
   "devDependencies": {},
   "author": "rmullhau",
   "license": "ISC"
